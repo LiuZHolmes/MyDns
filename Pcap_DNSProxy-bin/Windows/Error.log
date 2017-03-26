@@ -1,0 +1,24 @@
+﻿[2017-03-19 09:39:42] -> [Notice] Pcap_DNSProxy started.
+[2017-03-19 09:39:42] -> [Network Error] Not any available gateways to public network.
+[2017-03-19 09:39:42] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-19 09:39:42] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-19 09:39:42] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-19 09:39:42] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-20 12:19:36] -> [Notice] Pcap_DNSProxy started.
+[2017-03-20 12:19:36] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable host[10065].
+[2017-03-20 12:19:36] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable host[10065].
+[2017-03-22 13:26:42] -> [Notice] Pcap_DNSProxy started.
+[2017-03-22 13:26:42] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-22 13:26:42] -> [Network Error] Not any available gateways to public network.
+[2017-03-22 13:26:43] -> [Pcap Error] PacketGetAdapterNames: 传递给系统调用的数据区域太小。 (122)
+[2017-03-22 13:26:43] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-22 13:26:43] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-22 13:26:43] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-22 13:32:59] -> [Notice] Pcap_DNSProxy started.
+[2017-03-22 13:32:59] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-22 13:32:59] -> [Network Error] Not any available gateways to public network.
+[2017-03-22 13:32:59] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-22 13:32:59] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-22 13:32:59] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable network[10051].
+[2017-03-24 12:43:39] -> [Notice] Pcap_DNSProxy started.
+[2017-03-24 12:43:39] -> [Network Error] Socket connecting error: A socket operation was attempted to an unreachable host[10065].
