@@ -36,6 +36,9 @@ PS：科学上网的IPv6相关
 
 &emsp;[点这里测试IPv6](http://www.test-ipv6.com/)
 
+PS2：IPv4和IPv6隧道  
+&emsp;在终端运行的决定IPv4和IPv6之间地址选择的隧道有teredo，6to4和isatap，sysu使用的是isatap。只有teredo能给NAT后的设备做这个隧道服务，但是teredo并不能优先选择IPv6，因此在这类终端上还需要添加文件里的注册表信息。
+
 Enjoy!
 
 　　
