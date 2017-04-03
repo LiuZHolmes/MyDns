@@ -34,7 +34,7 @@ PS：科学上网的IPv6相关
 
 &emsp;对于SYSU，要使用IPv6的话只需要选择教育网IPv6的双栈接入（DHCPv6）方式即可。
 
-&emsp;[点这里测试IPv6](http://http/www.test-ipv6.com/)
+&emsp;[点这里测试IPv6](http://www.test-ipv6.com/)
 
 Enjoy!
 
